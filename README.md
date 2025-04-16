@@ -4,7 +4,7 @@ Welcome to the **Dockerized Todo App** guide! This guide walks you through conta
 
 ---
 
-![Docker Compose Overview](https://www.docker.com/wp-content/uploads/2022/03/compose-diagram.png)
+![Docker Compose Overview](https://goldeneagle.ai/media/media/uploads/docker.gif)
 
 ---
 
